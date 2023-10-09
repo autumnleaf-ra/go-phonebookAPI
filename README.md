@@ -1,6 +1,7 @@
 # PhoneBook-API
 
-Simple API with CRUD feature
+PhoneBook API
+Crud make phone book to add , delete , edit and add to favorites numbers.
 
 ## Tech Stack
 1. PostgreSQL
