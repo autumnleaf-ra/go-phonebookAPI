@@ -30,6 +30,10 @@ DB_SSLMODE = disable
 DB_NAME = dbname
 PORT = "4000"
 ```
+## Deployed API
+```
+https://damp-everglades-25958-e4eddda4af2c.herokuapp.com/
+```
 
 
 ## API Endpoints
