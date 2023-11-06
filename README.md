@@ -32,7 +32,7 @@ PORT = "4000"
 ```
 ## Deployed API
 ```
-https://damp-everglades-25958-e4eddda4af2c.herokuapp.com/
+https://deploy-phonebook-production.up.railway.app/
 ```
 
 
